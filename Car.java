@@ -3,7 +3,7 @@ class Car{
         System.out.println("Car Class");
         System.out.println("Car Class");
         System.out.println("Car Class");
-        System.out.println("Car Class")
+        System.out.println("Car Class");
         System.out.println("Car Class");
         System.out.println("Car Class");
         System.out.println("Car Class");
